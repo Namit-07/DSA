@@ -1,71 +1,63 @@
-# 📘 Data Structures & Algorithms (DSA) – Java
+# 🚀 DSA Journey in Java — Consistency > Motivation 💯
 
-This repository documents my **daily practice of Data Structures and Algorithms (DSA)** using **Java**.  
-The goal is to build **strong fundamentals**, improve **problem-solving skills**, and prepare for **technical interviews** and **competitive programming**.
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
+![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Interviews-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Daily%20Practice-success?style=for-the-badge)
+![GSoC](https://img.shields.io/badge/Goal-GSoC%202026-black?style=for-the-badge)
 
----
+Welcome to my **Data Structures & Algorithms practice repository** 👨‍💻  
+This repo contains my **daily DSA grind in Java**, solved topic-wise with revision to strengthen core patterns and interview confidence.
 
-## 🚀 Objectives
-- Master core DSA concepts step by step
-- Write clean, readable, and efficient Java code
-- Understand **time and space complexity**
-- Build consistency through daily practice
-- Prepare for interviews, open-source contributions, and future internships
+> ⚡ *One problem a day turns into unstoppable momentum.*
 
 ---
 
-## 🧩 Topics Covered
-
-### 📂 Arrays
-- Reverse an Array
-- Second Largest Element
-- Check if Array is Sorted
-- Count Even & Odd Elements
-- Array Rotation (upcoming)
-- Move Zeros to End (upcoming)
-
-### 📂 Strings *(Planned)*
-- Palindrome Check
-- Reverse String
-- Frequency Count
-
-### 📂 Linked List *(Planned)*
-- Traversal
-- Insertion & Deletion
-- Reverse Linked List
-
-### 📂 Stack & Queue *(Planned)*
-- Stack Implementation
-- Queue Implementation
-- Valid Parentheses
-
-### 📂 Recursion *(Planned)*
-- Basic recursion problems
-- Backtracking fundamentals
+## 🧠 Why this repo exists
+✅ Build strong problem-solving skills  
+✅ Become **interview-ready** (internships + placements)  
+✅ Improve speed + accuracy + pattern recognition  
+✅ Maintain long-term consistency and discipline  
+✅ Support my **GSoC 2026 preparation** journey  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Java
-- **IDE:** VS Code
-- **Approach:** Logic-first, interview-oriented
+- **Language:** Java  
+- **Editor:** VS Code  
+- **Platforms:** LeetCode + Topic-based Practice  
 
 ---
 
-## 📈 Learning Approach
-- Problems are first implemented in **VS Code** to focus on logic
-- Each solution includes:
-  - Clear logic
-  - Time & space complexity analysis
-- LeetCode will be used later for pattern practice
+## 📌 Topics Covered
+✅ Arrays  
+✅ Strings  
+✅ HashMap / Hashing  
+✅ Prefix Sum  
+✅ Two Pointers  
+✅ Binary Search (Level 1 + Level 2)  
+✅ Recursion  
+✅ Backtracking  
+✅ Linked List (Level 1 + Level 2)  
+✅ Stack & Queue  
 
 ---
 
-## 🗓️ Progress Tracking
-- Daily practice with consistent commits
-- Structured learning plan instead of random problem solving
+## 🗂️ Folder Structure
+```bash
+DSA/
+│
+├── Arrays/
+├── Strings/
+├── HashMap/
+├── PrefixSum/
+├── TwoPointers/
+├── BinarySearch/
+├── Recursion/
+├── Backtracking/
+├── LinkedList/
+└── StackQueue/
+```
 
----
 
 ## 🤝 Connect
 If you’re also learning DSA or preparing for interviews, feel free to connect or discuss solutions!
