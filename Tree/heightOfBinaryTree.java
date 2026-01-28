@@ -30,8 +30,9 @@ public class heightOfBinaryTree {
         root.right = new TreeNode(3);
         root.left.left = new TreeNode(4);
         root.left.right = new TreeNode(5);
+        root.left.left.left = new TreeNode(6);
 
-        System.out.println("Height of the binary tree: " + height(root)); // Expected Output: 3
+        System.out.println("Height of the binary tree: " + height(root)); // Expected Output: 4
     }
 }
 
