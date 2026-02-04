@@ -1,4 +1,4 @@
-# 🚀 DSA Journey in Java — Consistency > Motivation 💯
+# 🚀 DSA Journey in Java 
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
 ![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Interviews-blue?style=for-the-badge)
