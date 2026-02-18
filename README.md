@@ -18,7 +18,6 @@ This repository represents consistent daily learning, deep understanding of core
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Namit-07&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namit-07&layout=compact&theme=tokyonight)
 
 ---
 
