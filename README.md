@@ -1,68 +1,159 @@
-# 🚀 DSA Journey in Java 
+# 🚀 Data Structures & Algorithms — Journey to Mastery
 
-![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
-![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Interviews-blue?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-Daily%20Practice-success?style=for-the-badge)
-![GSoC](https://img.shields.io/badge/Goal-GSoC%202026-black?style=for-the-badge)
+Welcome to my **DSA Practice Repository** — a structured collection of problems, patterns, and implementations written while building strong problem-solving fundamentals and preparing for technical interviews.
 
-Welcome to my **Data Structures & Algorithms practice repository** 👨‍💻  
-This repo contains my **daily DSA grind in Java**, solved topic-wise with revision to strengthen core patterns and interview confidence.
-
-> ⚡ *One problem a day turns into unstoppable momentum.*
+This repository represents consistent daily learning, deep understanding of core concepts, and disciplined practice across major Data Structures & Algorithms topics.
 
 ---
 
-## 🧠 Why this repo exists
-✅ Build strong problem-solving skills  
-✅ Become **interview-ready** (internships + placements)  
-✅ Improve speed + accuracy + pattern recognition  
-✅ Maintain long-term consistency and discipline  
-✅ Support my **GSoC 2026 preparation** journey  
+## 🎯 Goal
+
+- Build strong problem-solving intuition  
+- Master core DSA patterns used in real interviews  
+- Prepare for FAANG-level coding interviews  
+- Transition from learning concepts ➜ applying patterns ➜ solving real problems
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Namit-07&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namit-07&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Topics Covered
+
+### ✅ Fundamentals
+- Arrays
+- Strings
+- Recursion
+- Binary Search
+- Two Pointers & Sliding Window
+
+### 🔗 Linear Data Structures
+- Linked List
+- Stack
+- Queue
+
+### 🌳 Trees
+- Traversals (DFS / BFS)
+- Height & Diameter
+- Balanced Trees
+- Lowest Common Ancestor
+- Path Problems
+
+### 🔙 Backtracking
+- Subsets
+- Permutations
+- Combination Problems
+
+### ⚡ Advanced Structures
+- Heaps & Priority Queue
+- Graph Algorithms
+  - BFS / DFS
+  - Shortest Path (Dijkstra)
+  - Topological Concepts
+
+### 🧩 Dynamic Programming
+- Fibonacci Pattern
+- Climbing Stairs
+- House Robber
+- Knapsack (Classic & Optimized)
+- Longest Common Subsequence
+- Longest Increasing Subsequence
+- Edit Distance
+- Partition & Target Sum
+- Coin Change
+
+---
+
+## 📊 Progress Tracker
+
+| Topic | Status | Notes |
+|------|-------|------|
+| Arrays | ✅ Completed | Core patterns mastered |
+| Strings | ✅ Completed | Sliding window & hashing |
+| Binary Search | ✅ Completed | Pattern recognition achieved |
+| Recursion | ✅ Completed | Base & recursive thinking |
+| Linked List | ✅ Completed | Pointer mastery |
+| Stack & Queue | ✅ Completed | LIFO/FIFO applications |
+| Trees | ✅ Completed | Traversals + advanced problems |
+| Backtracking | ✅ Completed | Search space understanding |
+| Heaps / PQ | ✅ Completed | Optimization problems |
+| Graphs | ✅ Completed | BFS, DFS, shortest paths |
+| Dynamic Programming | ✅ Completed | Pattern-based DP thinking |
+| Advanced Patterns | ✅ Ongoing | Interview refinement |
+| LeetCode Practice | 🚀 Started | Real interview preparation |
+
+---
+
+## 🛠 Tech Stack
+
 - **Language:** Java  
-- **Editor:** VS Code  
-- **Platforms:** LeetCode + Topic-based Practice  
+- **IDE:** VS Code  
+- **Approach:** Pattern-Based Learning + Daily Practice
 
 ---
 
-## 📌 Topics Covered
-✅ Arrays  
-✅ Strings  
-✅ HashMap / Hashing  
-✅ Prefix Sum  
-✅ Two Pointers  
-✅ Binary Search (Level 1 + Level 2)  
-✅ Recursion  
-✅ Backtracking  
-✅ Linked List (Level 1 + Level 2)  
-✅ Stack & Queue  
+## 📁 Repository Structure
 
----
-
-## 🗂️ Folder Structure
 ```bash
 DSA/
 │
+├── Advance Algorithms/
 ├── Arrays/
-├── Strings/
-├── HashMap/
-├── PrefixSum/
-├── TwoPointers/
-├── BinarySearch/
-├── Recursion/
 ├── Backtracking/
-├── LinkedList/
-└── StackQueue/
+├── Binary Search/
+├── Dynamic Programming/
+├── Graphs/
+├── Heaps&PriorityQueue/
+├── Leetcode Questions/
+├── Linked List/
+├── Recursion/
+├── Stack&Queue/
+├── Strings/
+└── Tree/
 ```
 
-
-## 🤝 Connect
-If you’re also learning DSA or preparing for interviews, feel free to connect or discuss solutions!
+Each folder contains:
+- Clean implementations
+- Optimized approaches
+- Interview-focused solutions
 
 ---
 
-⭐ *Consistency over intensity. Building fundamentals one problem at a time.*
+## 💡 Learning Philosophy
+
+> Learn concepts → Recognize patterns → Write clean logic → Optimize → Repeat daily.
+
+Consistency and curiosity drive this journey.
+
+---
+
+## 🔥 Current Focus
+
+- Advanced pattern refinement  
+- LeetCode problem solving  
+- Interview-level optimization thinking
+
+---
+
+## 📈 Journey Snapshot
+
+Started from fundamentals → built daily discipline → developed strong intuition for problem solving.
+
+This repository reflects growth through persistence, mistakes, debugging, and continuous improvement.
+
+---
+
+## 🤝 Connect With Me
+
+If you’re also learning DSA or preparing for interviews, feel free to connect and collaborate!
+
+⭐ If you find this repository helpful, consider giving it a star!
+
+---
+
+*Built with consistency, curiosity, and a lot of debugging.*
 
